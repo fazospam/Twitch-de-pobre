@@ -1,0 +1,67 @@
+body{
+
+    height: 920px;
+    margin: 0px;
+    
+}
+
+header{
+
+    height:10%;
+    background-color: blueviolet;
+    box-sizing: border-box;
+    padding: 10px;
+ 
+}
+
+#logo{
+
+    width: 72px;
+    height: 72px;
+   
+}
+
+
+
+section{
+
+    height:90%; 
+    background-color: rgb(32, 32, 32);
+    display: flex;
+}
+
+#barralateral{
+
+    width: 15%;
+    height: 100%;
+    background-color: rgb(44, 44, 44);
+}
+
+#canal{
+
+    margin-top: 10px;
+    margin-left: 3px;
+}
+
+#categorias{
+
+    height: 40%;
+    width: 85%;
+    display: flex;
+    box-sizing: border-box;
+    padding-top: 5%;
+}
+
+#item{
+
+    width: 15%;
+    height: 100%;
+    margin: auto;
+}
+
+#nomejogo{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    margin: 0px;
+}
